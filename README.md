@@ -1,14 +1,17 @@
 <H1 class="titulo">🌎Olá, Hii, よろしくお願いいたします。...</H1>
 
-# SOBRE MIM:
-🧑‍🎓Formado com curso técnico em Análise e Desenvolvimento de Sistemas pela ETEC.
-📝Cursando atualmente Engenharia de Controle E Automação pelo Instituto Federal De São Paulo.
+![5b25b0143c81301e0247b9716477b88d](https://github.com/user-attachments/assets/8ca9ee9f-dd14-4a4d-8a5f-b767fa1ff69e)
 
-Experiências:
-Atuei como Web Designer, gerenciando páginas como Amazon, Rakuten, QOO10 entre outros. Criando páginas, vídeos e gerenciando os produtos de acordo com o estoque e a época de maior venda do produto.
+## SOBRE MIM:
+
+<p>🧑‍🎓Formado com curso técnico em Análise e Desenvolvimento de Sistemas pela ETEC.</p>
+<p>📝Cursando atualmente Engenharia de Controle E Automação pelo Instituto Federal De São Paulo.</p>
+
+### Experiências:
+<p>Atuei como Web Designer, gerenciando páginas como Amazon, Rakuten, QOO10 entre outros. Criando páginas, vídeos e gerenciando os produtos de acordo com o estoque e a época de maior venda do produto.</p>
 EMPRESA: 株式会社ティグリス (TIGRIS CORP.) out/24 ~ fev/25.
 
-![5b25b0143c81301e0247b9716477b88d](https://github.com/user-attachments/assets/8ca9ee9f-dd14-4a4d-8a5f-b767fa1ff69e)
+
 
 
 
