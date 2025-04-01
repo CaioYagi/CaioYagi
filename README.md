@@ -1,16 +1,14 @@
-## Hi there 👋
+<H1 class="titulo">🌎Olá, Hii, よろしくお願いいたします。...</H1>
 
-<!--
-**CaioYagi/CaioYagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  
+![5b25b0143c81301e0247b9716477b88d](https://github.com/user-attachments/assets/1db7853b-2b95-4447-adac-e5d0de42266c)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioYagi&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioYagi&layout=compact&theme=graywhite)
+
+
+
+      
+
