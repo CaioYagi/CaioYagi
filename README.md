@@ -1,5 +1,6 @@
 <H1 class="titulo">🌎Olá, Hii, よろしくお願いいたします。...</H1>
 
+![5b25b0143c81301e0247b9716477b88d](https://github.com/user-attachments/assets/8ca9ee9f-dd14-4a4d-8a5f-b767fa1ff69e)
 
 
 
@@ -16,6 +17,6 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caio_yagi) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Caio Hiroki Yagi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Caio-Hiroki-Yagi) 
 
 
