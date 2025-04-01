@@ -11,7 +11,10 @@
 <p>Atuei como Web Designer, gerenciando páginas como Amazon, Rakuten, QOO10 entre outros. Criando páginas, vídeos e gerenciando os produtos de acordo com o estoque e a época de maior venda do produto.</p>
 EMPRESA: 株式会社ティグリス (TIGRIS CORP.) out/24 ~ fev/25.
 
-
+### :shipit: Languages:
+<p>Portuguese (Native) 🇧🇷 </p>
+<p>Japanese (Fluent) 🗾</p>
+<p>English (Advanced) 🇺🇸 </p>
 
 
 
