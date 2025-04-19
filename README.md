@@ -19,7 +19,7 @@ EMPRESA: 株式会社ティグリス (TIGRIS CORP.) out/24 ~ fev/25.
 
 
 # 📊 GitHub Status:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioYagi&show_icons=true&theme=graywhite)            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioYagi&layout=compact&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioYagi&show_icons=true&theme=graywhite)            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/api?username=CaioYagi&layout=compact&theme=graywhite)
 
 
 
